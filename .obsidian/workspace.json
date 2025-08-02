@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ea4381d7387aa4",
+        "id": "e9329645df5a74ad",
         "type": "tabs",
         "children": [
           {
-            "id": "95c7a9ae07488f5c",
+            "id": "abc75677acef857d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8b2456447de86895",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/tmux/1. tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. tmux"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/tmux/1. tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. tmux"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,13 +136,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/tmux/1. tmux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. tmux"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "23420f0f335415ec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -161,13 +168,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7eb460f7f636707b",
+  "active": "abc75677acef857d",
   "lastOpenFiles": [
     "Welcome.md",
+    "02191000000  2.md",
+    "Untitled",
+    "test folder/1. github.md",
+    "images/Pasted image 20250802104548.png",
+    "images",
+    "test folder",
+    "git/1. Makefile.md",
     "linux/tmux/1. tmux.md",
+    "git",
     "linux/tmux",
     "linux"
   ]
